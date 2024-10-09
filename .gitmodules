@@ -1,0 +1,3 @@
+[submodule "zsh-kubecolor"]
+	path = zsh-kubecolor
+	url = https://github.com/devopstales/zsh-kubecolor.git
